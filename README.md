@@ -16,7 +16,7 @@ Installation
 
 Backend Setup (Jupyter Notebook)
 1. Clone the repository:
-   git clone https://github.com/use-my-repository-url.git
+   git clone https://github.com/Siziphiwe24/Image-Retrieval/tree/main
    cd my-repository-folder
 
 2. Navigate to the backend directory:
