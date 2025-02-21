@@ -1,0 +1,6 @@
+flask
+torch
+faiss-cpu
+transformers
+pillow
+matplotlib
